@@ -1,4 +1,3 @@
-import { fetchCategories, fetchPosts } from "../../api/summary";
 import { Post, Category } from "../../shared/types";
 import { Section } from "../Section";
 
