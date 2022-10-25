@@ -19,7 +19,7 @@ export async function getServerSideProps() {
 export default function Front({ posts, categories }: FrontProps) {
   return (
     <>
-      <Head>Front page of the internet</Head>
+      <Head>:D</Head>
       <main>
         <Feed posts={posts} categories={categories} />
       </main>
